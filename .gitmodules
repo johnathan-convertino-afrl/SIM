@@ -1,0 +1,15 @@
+[submodule "axis_stimulator"]
+	path = axis_stimulator
+	url = https://github.com/johnathan-convertino-afrl/axis_stimulator.git
+[submodule "clock_stimulator"]
+	path = clock_stimulator
+	url = https://github.com/johnathan-convertino-afrl/clock_stimulator.git
+[submodule "fifo_stimulator"]
+	path = fifo_stimulator
+	url = https://github.com/johnathan-convertino-afrl/fifo_stimulator.git
+[submodule "vpi_binary_file_io"]
+	path = vpi_binary_file_io
+	url = https://github.com/johnathan-convertino-afrl/vpi_binary_file_io.git
+[submodule "util_sim_helper"]
+	path = util_sim_helper
+	url = https://github.com/johnathan-convertino-afrl/util_sim_helper.git
